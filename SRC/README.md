@@ -28,7 +28,7 @@ Com o live-server instalado, navegue até a pasta do projeto e execute o comando
 live-server .
 ```
 
-===
+---
 
 # SummonersRift
 
