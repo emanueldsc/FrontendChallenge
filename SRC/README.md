@@ -1,15 +1,32 @@
 # Para executar o torneio
 
-Baixe todas as dependências utilizando o comando ```npm install```
+Baixe todas as dependências utilizando o comando 
 
-Após baixar as dependências navegue até a pasta ```src``` e execute o comando ```ng serve```
+```
+npm install
+```
+
+Após baixar as dependências navegue até a pasta ```src``` e execute o comando 
+
+```
+ng serve
+```
 
 ## Executando com live-server
 
 Existe também a opção de usar o live-server para executar os arquivos da pasta dist. 
-Baixe o live-server com o comando ```npm install -g live-server```
 
-Com o live-server instalado, navegue até a pasta do projeto e execute o comando ``live-server .```
+Baixe o live-server com o comando 
+
+```
+npm install -g live-server
+```
+
+Com o live-server instalado, navegue até a pasta do projeto e execute o comando 
+
+```
+live-server .
+```
 
 ===
 
