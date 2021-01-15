@@ -22,7 +22,7 @@ Baixe o live-server com o comando
 npm install -g live-server
 ```
 
-Com o live-server instalado, navegue até a pasta do projeto e execute o comando 
+Com o live-server instalado, navegue até a pasta dist, dentro do projeto, e execute o comando 
 
 ```
 live-server .
