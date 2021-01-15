@@ -1,0 +1,19 @@
+.tournament {
+    padding: 10px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+
+    .round {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        max-width: 150px;
+    }
+}
